@@ -1,0 +1,96 @@
+Loading
+Loaded 0 trajectories
+Loaded 1000 trajectories
+Loaded 2000 trajectories
+Loaded 3000 trajectories
+Loaded 4000 trajectories
+Loaded 5000 trajectories
+Loaded 6000 trajectories
+Loaded 7000 trajectories
+Loaded 8000 trajectories
+Loaded 9000 trajectories
+Num parameters 161500
+Epoch 0 mean loss while training 2.141e-02
+Epoch 0 mean loss while evaluation 3.224e-03
+Epoch 0 learning rate 1.200e-05
+Time from start: 59.21sec
+Epoch 50 mean loss while training 2.011e-03
+Epoch 50 mean loss while evaluation 2.005e-03
+Epoch 50 learning rate 3.142e-05
+Time from start: 2904.90sec
+Epoch 100 mean loss while training 4.014e-03
+Epoch 100 mean loss while evaluation 1.603e-01
+Epoch 100 learning rate 8.444e-05
+Time from start: 5654.20sec
+Epoch 150 mean loss while training 1.900e-03
+Epoch 150 mean loss while evaluation 1.890e-03
+Epoch 150 learning rate 1.568e-04
+Time from start: 8420.80sec
+Epoch 200 mean loss while training 1.904e-03
+Epoch 200 mean loss while evaluation 1.873e-03
+Epoch 200 learning rate 2.289e-04
+Time from start: 11186.46sec
+Epoch 250 mean loss while training 1.605e-03
+Epoch 250 mean loss while evaluation 1.534e-03
+Epoch 250 learning rate 2.813e-04
+Time from start: 13951.55sec
+Epoch 300 mean loss while training 1.608e-03
+Epoch 300 mean loss while evaluation 1.580e-03
+Epoch 300 learning rate 3.000e-04
+Time from start: 16700.79sec
+Epoch 350 mean loss while training 1.799e-03
+Epoch 350 mean loss while evaluation 1.735e-03
+Epoch 350 learning rate 2.961e-04
+Time from start: 19484.25sec
+Epoch 400 mean loss while training 1.860e-03
+Epoch 400 mean loss while evaluation 1.833e-03
+Epoch 400 learning rate 2.849e-04
+Time from start: 22240.44sec
+Epoch 450 mean loss while training 1.506e-03
+Epoch 450 mean loss while evaluation 1.468e-03
+Epoch 450 learning rate 2.669e-04
+Time from start: 25002.63sec
+Epoch 500 mean loss while training 1.091e-03
+Epoch 500 mean loss while evaluation 1.046e-03
+Epoch 500 learning rate 2.430e-04
+Time from start: 27765.44sec
+Epoch 550 mean loss while training 1.460e-03
+Epoch 550 mean loss while evaluation 1.360e-03
+Epoch 550 learning rate 2.145e-04
+Time from start: 30525.83sec
+Epoch 600 mean loss while training 1.009e-03
+Epoch 600 mean loss while evaluation 8.131e-04
+Epoch 600 learning rate 1.827e-04
+Time from start: 33340.71sec
+Epoch 650 mean loss while training 7.483e-04
+Epoch 650 mean loss while evaluation 7.456e-04
+Epoch 650 learning rate 1.493e-04
+Time from start: 36119.46sec
+Epoch 700 mean loss while training 6.571e-04
+Epoch 700 mean loss while evaluation 6.567e-04
+Epoch 700 learning rate 1.160e-04
+Time from start: 38886.29sec
+Epoch 750 mean loss while training 6.055e-04
+Epoch 750 mean loss while evaluation 6.029e-04
+Epoch 750 learning rate 8.431e-05
+Time from start: 41702.56sec
+Epoch 800 mean loss while training 5.811e-04
+Epoch 800 mean loss while evaluation 5.810e-04
+Epoch 800 learning rate 5.595e-05
+Time from start: 44534.15sec
+Epoch 850 mean loss while training 5.684e-04
+Epoch 850 mean loss while evaluation 5.696e-04
+Epoch 850 learning rate 3.231e-05
+Time from start: 47306.54sec
+Epoch 900 mean loss while training 5.611e-04
+Epoch 900 mean loss while evaluation 5.973e-04
+Epoch 900 learning rate 1.457e-05
+Time from start: 50062.24sec
+Epoch 950 mean loss while training 5.579e-04
+Epoch 950 mean loss while evaluation 6.382e-04
+Epoch 950 learning rate 3.614e-06
+Time from start: 52991.47sec
+Epoch 999 mean loss while training 5.571e-04
+Epoch 999 mean loss while evaluation 6.589e-04
+Epoch 999 learning rate 1.200e-09
+Time from start: 55861.77sec
